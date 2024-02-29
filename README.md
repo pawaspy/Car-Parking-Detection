@@ -8,13 +8,6 @@ This README.md file provides instructions for setting up and running the car par
 
 - **Python 3.x:** Ensure you have Python 3 installed. You can verify this by running `python --version` in your terminal.
 - **Required Packages:** Install the necessary dependencies using pip:
-
-
-{% include codeHeader.html %}
 ```
-<div class="code-header">
-  <button class="copy-code-button">
-    Copy code to clipboard
-  </button>
-</div>
+pip install streamlit numpy pandas pillow matplotlib tensorflow tensorflow-keras scikit-learn
 ```
